@@ -4,7 +4,7 @@ import logging
 import requests
 import re
 
-import capture_powerbi_NEW as capture
+import capture_powerbi as capture
 
 import os 
 
